@@ -5,3 +5,4 @@ Flask-JWT-Extended
 PyMongo
 google-generativeai
 dotenv
+gunicorn
